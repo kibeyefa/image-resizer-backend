@@ -5,6 +5,7 @@ django-cors-headers==4.9.0
 djangorestframework==3.16.1
 dotenv==0.9.9
 drf-spectacular==0.29.0
+gunicorn==23.0.0
 inflection==0.5.1
 jsonschema==4.26.0
 jsonschema-specifications==2025.9.1
